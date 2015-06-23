@@ -1,4 +1,4 @@
-==README
+## README
 
 This is the semester-long assignment for the Compilers class at Algqonquin College. It is a 
 front-end compiler for the Platypus language designed by Prof. Svillen Ranev.
@@ -13,4 +13,4 @@ It consists of 4 parts:
 * Parser
   * The parser makes sure the program is syntactically valid.
 
-====This repo is for demo purposes only
+#### This repo is for demo purposes only
